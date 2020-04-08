@@ -6,3 +6,5 @@ venv/lib
 venv/lib64
 venv/pyvenv.cfg
 .idea/workspace.xml
+-f
+.idea
