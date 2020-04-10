@@ -7,3 +7,4 @@ main("I am amazing")
 =======
 #You're amazing
 >>>>>>> refs/remotes/origin/master
+main("I love myself so much")
